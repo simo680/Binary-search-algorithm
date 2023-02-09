@@ -1,5 +1,5 @@
 
-let array = [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 12, 12, 12 , 8, 16, 10, 300];
+let array = [5, 17, 11, 9, 9, 9, 12, 12, 12, 12, 8, 16, 10, 300];
 let search = function (array) {
   let left = 0;
   let right = array.length - 1;
