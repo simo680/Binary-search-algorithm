@@ -15,7 +15,6 @@ let search = function (array) {
       left = mid + 1;
     }
   }
-  // нема
   return -1;
 };
  let res = search(array);
